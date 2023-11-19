@@ -1,6 +1,6 @@
 #  Universal Remote Control with Arduino 🕹️🌐
 
-<h5>Description:</h5>
+#<h5>Description:</h5>
 Turn your Arduino into a versatile universal remote control! This project empowers you to consolidate the control of various devices, including TVs, audio systems, and smart home gadgets, using a single Arduino-based interface. Explore the world of DIY home automation with this customizable and extensible remote control solution.
 Hello and welcome to the Universal Remote Control project! 
 This project is designed to allow you to control multiple devices using a single remote control. 
